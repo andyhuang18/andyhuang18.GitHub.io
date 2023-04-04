@@ -1,7 +1,3 @@
----
-layout: article
-key: page-about
----
 
 # 个人简介
 
