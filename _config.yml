@@ -22,7 +22,7 @@ url     : https://andyhuang18.github.io/ # the base hostname & protocol for your
 baseurl : # does not include hostname
 title   : 足坛浪子的博客
 description: > # this means to ignore newlines until "Language & timezone"
-  热爱足球的少年
+  Hello~I am a Rossoneri!
 
 
 ## => Language and Timezone
@@ -35,11 +35,11 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Andy Huang
-  url       : 
+  name      : andy huang
+  url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am a crazy fan of AC Milan.Now a student from ECNU~
-  email     : 763230412@qq.com
+  bio       : Rossoneri
+  email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
